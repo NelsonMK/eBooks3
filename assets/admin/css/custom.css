@@ -1,0 +1,38 @@
+.share-buttons {
+    list-style: none;
+}
+
+.share-buttons li {
+    display: inline-block;
+    margin: 0 6px 8px 0;
+}
+
+.share-buttons li a {
+    background: #fff;
+    border: 1px solid #666;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 7px 20px;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 17px;
+    font-weight: 500;
+}
+
+.blog-post {
+    box-shadow: 0px 15px 40px rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    display: inline-block;
+    width: 100%;
+    max-height: 480px;
+    border-radius: 3px;
+}
+
+.single-post p {
+    margin: 20px 0;
+    text-align: justify;
+}
+.single-post > video{
+    width: 100%;
+}
